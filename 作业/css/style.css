@@ -1,0 +1,95 @@
+@charset "UTF-8";
+@import url(../base/reset.css);
+@import url(../fonts/iconfont.css);
+* {
+  box-sizing: border-box; }
+
+html, body {
+  width: 100%;
+  height: 100%;
+  font-size: 14px;
+  font-family: "微软雅黑"; }
+
+input, button, textarea, select {
+  border: none;
+  outline: none;
+  background: none; }
+
+.wrap {
+  width: 100%;
+  height: 100%;
+  background: url(../img/homework.jpg) no-repeat;
+  background-size: 100% 100%; }
+
+h1 {
+  margin-left: 60px;
+  padding-top: 20px;
+  color: #fff; }
+  h1 b {
+    font-size: 18px;
+    color: #2cc1ff; }
+
+.img1 {
+  width: 80px;
+  height: 80px;
+  position: absolute;
+  left: 100px;
+  top: 70px; }
+
+.img2 {
+  width: 70px;
+  height: 70px;
+  position: absolute;
+  left: 30px;
+  top: 140px; }
+
+.img3 {
+  width: 80px;
+  height: 80px;
+  position: absolute;
+  left: 90px;
+  top: 200px; }
+
+.img4 {
+  width: 80px;
+  height: 80px;
+  position: absolute;
+  bottom: 275px;
+  right: 50px; }
+
+.img5 {
+  width: 80px;
+  height: 80px;
+  position: absolute;
+  bottom: 150px;
+  left: 40px; }
+
+.img6 {
+  width: 80px;
+  height: 80px;
+  position: absolute;
+  bottom: 30px;
+  right: 50px; }
+
+p {
+  width: 180px;
+  height: 130px;
+  position: absolute;
+  right: 10px;
+  top: 130px;
+  color: #fff; }
+
+.shijian {
+  color: #fff;
+  font-size: 36px;
+  position: absolute;
+  right: 30px;
+  top: 60px; }
+
+.ri {
+  position: absolute;
+  top: 110px;
+  right: 30px;
+  color: #fff; }
+
+/*# sourceMappingURL=style.css.map */
